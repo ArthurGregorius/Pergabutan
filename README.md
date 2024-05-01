@@ -1,2 +1,2 @@
 # Pergabutan
-Program Hasil Kegabutan
+Hasil kegabutan untuk mengisi waktu luang saya
